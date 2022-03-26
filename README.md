@@ -16,7 +16,7 @@ The challenge was to make the svgs more interactive with javascript. like the pu
 
 ### Links
 )
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://amani-dot.github.io/Bullseye-Game/](https://your-live-site-url.com)
 
 ### Built with
 
