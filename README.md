@@ -1,8 +1,10 @@
 # Bullseye-Game
 
 ## Overview
- 
- Basically the bow on the left is pull back and arrow is thrown at the marks. If you hit it you get a 'HIT!', If missed you get a 'MISS!' and when you hit the bulleye you get a 'BULLSEYE!'.
+A Bullseye-Game
+
+ How it works--
+ Basically the bow on the left is pulled back and arrow is thrown at the concentric circles. If you hit it you get a 'HIT!', If missed you get a 'MISS!' and when you hit the bullseye you get a 'BULLSEYE!'.
 
 ### The challenge
 
@@ -15,7 +17,7 @@ The challenge was to make the svgs more interactive with javascript. like the pu
 
 
 ### Links
-)
+
 - Live Site URL: [https://amani-dot.github.io/Bullseye-Game/](https://your-live-site-url.com)
 
 ### Built with
